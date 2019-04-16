@@ -1,0 +1,1 @@
+2019-03-14 14:10:22,656 - common_method.py[line:59] - INFO: 执行新增时报错，报错信息为：the JSON object must be str, bytes or bytearray, not 'HTTPResponse'

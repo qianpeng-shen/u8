@@ -1,0 +1,1 @@
+2019-03-14 18:18:16,600 - common_method.py[line:73] - INFO: 插入失败,url为：https://crm.meiqia.com/api/v1.0/one/ServiceInformation原数据为：{'ServiceProvidersNumber': '北京-衡辉', 'Tickets_DismantlingID': 'AQACQqweRR0BAAAAuKe6GejLixXeYwYA'}

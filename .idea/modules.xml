@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/ImplTool/.idea/ImplTool.iml" filepath="$USER_HOME$/Desktop/ImplTool/.idea/ImplTool.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/plugin/bluepro/bluepro/bluepro/.idea/bluepro.iml" filepath="$USER_HOME$/Desktop/plugin/bluepro/bluepro/bluepro/.idea/bluepro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/u8.iml" filepath="$PROJECT_DIR$/.idea/u8.iml" />
+      <module fileurl="file://E:/web_u8/.idea/web_u8.iml" filepath="E:/web_u8/.idea/web_u8.iml" />
+    </modules>
+  </component>
+</project>

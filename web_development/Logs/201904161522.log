@@ -1,0 +1,96 @@
+2019-04-16 15:22:55,005 - client.py[line:663] - ERROR: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://localhost/TTSWebService/">
+   <SOAP-ENV:Header/>
+   <ns0:Body>
+      <ns1:GetWebDataForJson>
+         <ns1:innerJson>{
+      &quot;datafromnc&quot;: {
+        &quot;nccontext&quot;: {
+          &quot;user&quot;: &quot;mq&quot;,
+          &quot;password&quot;: &quot;123&quot;,
+          &quot;exsystemcode&quot;: &quot;BarCode99&quot;,
+          &quot;doctype&quot;: &quot;INVSN2CRM&quot;
+        },
+        &quot;queryinfos&quot;: {
+          &quot;snno&quot;: &quot;&quot;,
+          &quot;ddatetime&quot;: &quot;2018-10&quot;
+        }
+      }
+    }</ns1:innerJson>
+         <ns1:faceName>querybddoc</ns1:faceName>
+      </ns1:GetWebDataForJson>
+   </ns0:Body>
+</SOAP-ENV:Envelope>
+2019-04-16 15:22:55,007 - web_sn.py[line:71] - ERROR: b"Server raised fault: 'System.Web.Services.Protocols.SoapException: \xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe6\x97\xa0\xe6\xb3\x95\xe5\xa4\x84\xe7\x90\x86\xe8\xaf\xb7\xe6\xb1\x82\xe3\x80\x82 ---> System.Exception: \xe2\x80\x9c2018\xe2\x80\x9d\xe9\x99\x84\xe8\xbf\x91\xe6\x9c\x89\xe8\xaf\xad\xe6\xb3\x95\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetInvSn2Crm(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 1208\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetBaseVoucher(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 252\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.DataTo3Sys.get3SysVoucher(String VouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\DataTo3Sys.asmx.cs:\xe8\xa1\x8c\xe5\x8f\xb7 96\n   --- \xe5\x86\x85\xe9\x83\xa8\xe5\xbc\x82\xe5\xb8\xb8\xe5\xa0\x86\xe6\xa0\x88\xe8\xb7\x9f\xe8\xb8\xaa\xe7\x9a\x84\xe7\xbb\x93\xe5\xb0\xbe ---'"
+2019-04-16 15:22:55,387 - client.py[line:663] - ERROR: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://localhost/TTSWebService/">
+   <SOAP-ENV:Header/>
+   <ns0:Body>
+      <ns1:GetWebDataForJson>
+         <ns1:innerJson>{
+      &quot;datafromnc&quot;: {
+        &quot;nccontext&quot;: {
+          &quot;user&quot;: &quot;mq&quot;,
+          &quot;password&quot;: &quot;123&quot;,
+          &quot;exsystemcode&quot;: &quot;BarCode99&quot;,
+          &quot;doctype&quot;: &quot;INVSN2CRM&quot;
+        },
+        &quot;queryinfos&quot;: {
+          &quot;snno&quot;: &quot;&quot;,
+          &quot;ddatetime&quot;: &quot;2018-10&quot;
+        }
+      }
+    }</ns1:innerJson>
+         <ns1:faceName>querybddoc</ns1:faceName>
+      </ns1:GetWebDataForJson>
+   </ns0:Body>
+</SOAP-ENV:Envelope>
+2019-04-16 15:22:55,389 - web_sn.py[line:71] - ERROR: b"Server raised fault: 'System.Web.Services.Protocols.SoapException: \xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe6\x97\xa0\xe6\xb3\x95\xe5\xa4\x84\xe7\x90\x86\xe8\xaf\xb7\xe6\xb1\x82\xe3\x80\x82 ---> System.Exception: \xe2\x80\x9c2018\xe2\x80\x9d\xe9\x99\x84\xe8\xbf\x91\xe6\x9c\x89\xe8\xaf\xad\xe6\xb3\x95\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetInvSn2Crm(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 1208\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetBaseVoucher(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 252\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.DataTo3Sys.get3SysVoucher(String VouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\DataTo3Sys.asmx.cs:\xe8\xa1\x8c\xe5\x8f\xb7 96\n   --- \xe5\x86\x85\xe9\x83\xa8\xe5\xbc\x82\xe5\xb8\xb8\xe5\xa0\x86\xe6\xa0\x88\xe8\xb7\x9f\xe8\xb8\xaa\xe7\x9a\x84\xe7\xbb\x93\xe5\xb0\xbe ---'"
+2019-04-16 15:22:55,796 - client.py[line:663] - ERROR: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://localhost/TTSWebService/">
+   <SOAP-ENV:Header/>
+   <ns0:Body>
+      <ns1:GetWebDataForJson>
+         <ns1:innerJson>{
+      &quot;datafromnc&quot;: {
+        &quot;nccontext&quot;: {
+          &quot;user&quot;: &quot;mq&quot;,
+          &quot;password&quot;: &quot;123&quot;,
+          &quot;exsystemcode&quot;: &quot;BarCode99&quot;,
+          &quot;doctype&quot;: &quot;INVSN2CRM&quot;
+        },
+        &quot;queryinfos&quot;: {
+          &quot;snno&quot;: &quot;&quot;,
+          &quot;ddatetime&quot;: &quot;2018-10&quot;
+        }
+      }
+    }</ns1:innerJson>
+         <ns1:faceName>querybddoc</ns1:faceName>
+      </ns1:GetWebDataForJson>
+   </ns0:Body>
+</SOAP-ENV:Envelope>
+2019-04-16 15:22:55,797 - web_sn.py[line:71] - ERROR: b"Server raised fault: 'System.Web.Services.Protocols.SoapException: \xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe6\x97\xa0\xe6\xb3\x95\xe5\xa4\x84\xe7\x90\x86\xe8\xaf\xb7\xe6\xb1\x82\xe3\x80\x82 ---> System.Exception: \xe2\x80\x9c2018\xe2\x80\x9d\xe9\x99\x84\xe8\xbf\x91\xe6\x9c\x89\xe8\xaf\xad\xe6\xb3\x95\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetInvSn2Crm(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 1208\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetBaseVoucher(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 252\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.DataTo3Sys.get3SysVoucher(String VouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\DataTo3Sys.asmx.cs:\xe8\xa1\x8c\xe5\x8f\xb7 96\n   --- \xe5\x86\x85\xe9\x83\xa8\xe5\xbc\x82\xe5\xb8\xb8\xe5\xa0\x86\xe6\xa0\x88\xe8\xb7\x9f\xe8\xb8\xaa\xe7\x9a\x84\xe7\xbb\x93\xe5\xb0\xbe ---'"
+2019-04-16 15:22:56,161 - client.py[line:663] - ERROR: <?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://localhost/TTSWebService/">
+   <SOAP-ENV:Header/>
+   <ns0:Body>
+      <ns1:GetWebDataForJson>
+         <ns1:innerJson>{
+      &quot;datafromnc&quot;: {
+        &quot;nccontext&quot;: {
+          &quot;user&quot;: &quot;mq&quot;,
+          &quot;password&quot;: &quot;123&quot;,
+          &quot;exsystemcode&quot;: &quot;BarCode99&quot;,
+          &quot;doctype&quot;: &quot;INVSN2CRM&quot;
+        },
+        &quot;queryinfos&quot;: {
+          &quot;snno&quot;: &quot;&quot;,
+          &quot;ddatetime&quot;: &quot;2018-10&quot;
+        }
+      }
+    }</ns1:innerJson>
+         <ns1:faceName>querybddoc</ns1:faceName>
+      </ns1:GetWebDataForJson>
+   </ns0:Body>
+</SOAP-ENV:Envelope>
+2019-04-16 15:22:56,164 - web_sn.py[line:71] - ERROR: b"Server raised fault: 'System.Web.Services.Protocols.SoapException: \xe6\x9c\x8d\xe5\x8a\xa1\xe5\x99\xa8\xe6\x97\xa0\xe6\xb3\x95\xe5\xa4\x84\xe7\x90\x86\xe8\xaf\xb7\xe6\xb1\x82\xe3\x80\x82 ---> System.Exception: \xe2\x80\x9c2018\xe2\x80\x9d\xe9\x99\x84\xe8\xbf\x91\xe6\x9c\x89\xe8\xaf\xad\xe6\xb3\x95\xe9\x94\x99\xe8\xaf\xaf\xe3\x80\x82\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetInvSn2Crm(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 1208\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.GetCreateU8Vouchers.GetBaseVoucher(String sVouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\CreateU8Vouchers.cs:\xe8\xa1\x8c\xe5\x8f\xb7 252\n   \xe5\x9c\xa8 cn.com.qilisoft.barcodeTo3Sys.DataTo3Sys.get3SysVoucher(String VouchType, String VouchsXml) \xe4\xbd\x8d\xe7\xbd\xae C:\\qilimapp\\QiliTo3SysService\\DataTo3Sys.asmx.cs:\xe8\xa1\x8c\xe5\x8f\xb7 96\n   --- \xe5\x86\x85\xe9\x83\xa8\xe5\xbc\x82\xe5\xb8\xb8\xe5\xa0\x86\xe6\xa0\x88\xe8\xb7\x9f\xe8\xb8\xaa\xe7\x9a\x84\xe7\xbb\x93\xe5\xb0\xbe ---'"

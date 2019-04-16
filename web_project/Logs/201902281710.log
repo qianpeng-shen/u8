@@ -1,0 +1,10 @@
+2019-02-28 17:10:59,939 - public_methods.py[line:66] - INFO: 获取ID时报错，错误为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>,url为:https://10.82.2.29:22/api/v1.0/one/dsl/query?dsl={"Salesman":{"fields":["id","PersonnelNumber"],"cond":{"in":{"PersonnelNumber":["0041","0118","02824","05160","06040","123456","123457","22370"]}},"limit":500}}
+2019-02-28 17:11:00,124 - public_methods.py[line:66] - INFO: 获取ID时报错，错误为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>,url为:https://10.82.2.29:22/api/v1.0/one/dsl/query?dsl={"Salesman":{"fields":["id","PersonnelNumber"],"cond":{"in":{"PersonnelNumber":["0041","0118","02824","05160","06040","123456","123457","22370"]}},"limit":500}}
+2019-02-28 17:11:00,304 - public_methods.py[line:66] - INFO: 获取ID时报错，错误为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>,url为:https://10.82.2.29:22/api/v1.0/one/dsl/query?dsl={"Salesman":{"fields":["id","PersonnelNumber"],"cond":{"in":{"PersonnelNumber":["0041","0118","02824","05160","06040","123456","123457","22370"]}},"limit":500}}
+2019-02-28 17:11:00,524 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+2019-02-28 17:11:00,973 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+2019-02-28 17:11:01,164 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+2019-02-28 17:11:01,344 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+NOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+2019-02-28 17:11:01,164 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>
+2019-02-28 17:11:01,344 - public_methods.py[line:83] - INFO: 执行新增时报错，报错为:<urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:833)>

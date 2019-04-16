@@ -1,0 +1,744 @@
+2019-04-09 17:52:59,970 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,090 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,190 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,285 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,390 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,495 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,590 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,682 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,780 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,885 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:00,980 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,080 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,176 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,260 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,351 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,440 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,550 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,651 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,751 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:01,840 - web_orderinfo.py[line:167] - INFO: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-04-09 17:53:01,941 - web_orderinfo.py[line:167] - INFO: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-04-09 17:53:02,040 - web_orderinfo.py[line:167] - INFO: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-04-09 17:53:02,140 - web_orderinfo.py[line:167] - INFO: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-04-09 17:53:02,241 - web_orderinfo.py[line:167] - INFO: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-04-09 17:53:02,330 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,415 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,511 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,595 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,680 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element
+Element
+2019-04-09 17:53:02,770 - web_orderinfo.py[line:167] - INFO: must be str, not xml.etree.ElementTree.Element

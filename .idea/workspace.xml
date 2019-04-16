@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9740607e-033c-4e21-a2f8-80ead4099e00" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/u8$webs_person.coverage" NAME="webs_person Coverage Results" MODIFIED="1551439732564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$webs_product.coverage" NAME="webs_product Coverage Results" MODIFIED="1551439980864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1551263192554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ceshi" />
+    <SUITE FILE_PATH="coverage/u8$tst_sn.coverage" NAME="tst_sn Coverage Results" MODIFIED="1551673712835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$bolebaodata.coverage" NAME="bolebaodata Coverage Results" MODIFIED="1542618903722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$bolebaots.coverage" NAME="bolebaots Coverage Results" MODIFIED="1546482715029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$bolebaokaifa.coverage" NAME="bolebaokaifa Coverage Results" MODIFIED="1540814440407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹/Logs" />
+    <SUITE FILE_PATH="coverage/u8$data.coverage" NAME="data Coverage Results" MODIFIED="1542640544788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$synchronize_data.coverage" NAME="synchronize_data Coverage Results" MODIFIED="1552563567052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_order" />
+    <SUITE FILE_PATH="coverage/u8$pytest_in_test_sys_py.coverage" NAME="pytest in test_sys.py Coverage Results" MODIFIED="1550719525263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ceshi" />
+    <SUITE FILE_PATH="coverage/u8$bolebaokaifa2.coverage" NAME="bolebaokaifa2 Coverage Results" MODIFIED="1542359564681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$aa.coverage" NAME="aa Coverage Results" MODIFIED="1541053225797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$develop.coverage" NAME="develop Coverage Results" MODIFIED="1544412528774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$pytest_in_test_sn_py.coverage" NAME="pytest in test_sn.py Coverage Results" MODIFIED="1551667336195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$webs_sn.coverage" NAME="webs_sn Coverage Results" MODIFIED="1551668397859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$bolebaokaifa__1_.coverage" NAME="bolebaokaifa (1) Coverage Results" MODIFIED="1540951894226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebao/Logs" />
+    <SUITE FILE_PATH="coverage/u8$master.coverage" NAME="master Coverage Results" MODIFIED="1545639991991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/All_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$text_code.coverage" NAME="text_code Coverage Results" MODIFIED="1540361671738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹/Logs" />
+    <SUITE FILE_PATH="coverage/u8$pytest_in_test_data_py.coverage" NAME="pytest in test_data.py Coverage Results" MODIFIED="1537434405561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹/Logs" />
+    <SUITE FILE_PATH="coverage/u8$data__1_.coverage" NAME="data (1) Coverage Results" MODIFIED="1540970147557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebao/Logs" />
+    <SUITE FILE_PATH="coverage/u8$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1543410476372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/All_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$analysis_data.coverage" NAME="analysis_data Coverage Results" MODIFIED="1552385892218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/import_data" />
+    <SUITE FILE_PATH="coverage/u8$logger.coverage" NAME="logger Coverage Results" MODIFIED="1545833372916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/All_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$resolve.coverage" NAME="resolve Coverage Results" MODIFIED="1547436816227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$public_methods.coverage" NAME="public_methods Coverage Results" MODIFIED="1551405692369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$b__1_.coverage" NAME="b (1) Coverage Results" MODIFIED="1540542146543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹" />
+    <SUITE FILE_PATH="coverage/u8$webs_channel.coverage" NAME="webs_channel Coverage Results" MODIFIED="1555054584368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$Single_strip.coverage" NAME="Single_strip Coverage Results" MODIFIED="1543315308507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$webs_orderinfo.coverage" NAME="webs_orderinfo Coverage Results" MODIFIED="1554969043946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$web_receipt.coverage" NAME="web_receipt Coverage Results" MODIFIED="1551077206043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$bolebaots__1_.coverage" NAME="bolebaots (1) Coverage Results" MODIFIED="1546486631447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$bolebao_web__2_.coverage" NAME="bolebao_web (2) Coverage Results" MODIFIED="1546677139447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$sn.coverage" NAME="sn Coverage Results" MODIFIED="1555396315955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$bolebaokaifa__2_.coverage" NAME="bolebaokaifa (2) Coverage Results" MODIFIED="1542943958066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$message.coverage" NAME="message Coverage Results" MODIFIED="1546519593192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$tes.coverage" NAME="tes Coverage Results" MODIFIED="1544176525524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$develop__1_.coverage" NAME="develop (1) Coverage Results" MODIFIED="1543414887049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$manage.coverage" NAME="manage Coverage Results" MODIFIED="1551845825416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject/del_data" />
+    <SUITE FILE_PATH="coverage/u8$thread_queue_1_1.coverage" NAME="thread_queue_1.1 Coverage Results" MODIFIED="1538987243703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹" />
+    <SUITE FILE_PATH="coverage/u8$web_interface.coverage" NAME="web_interface Coverage Results" MODIFIED="1547114446193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$web_invoice.coverage" NAME="web_invoice Coverage Results" MODIFIED="1551264053318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$web_person.coverage" NAME="web_person Coverage Results" MODIFIED="1551412182165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$web_channel__1_.coverage" NAME="web_channel (1) Coverage Results" MODIFIED="1547537043755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$xml_web.coverage" NAME="xml_web Coverage Results" MODIFIED="1547867729434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject" />
+    <SUITE FILE_PATH="coverage/u8$web_product__1_.coverage" NAME="web_product (1) Coverage Results" MODIFIED="1551252034107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$main_u8.coverage" NAME="main_u8 Coverage Results" MODIFIED="1543401653520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$master_program.coverage" NAME="master_program Coverage Results" MODIFIED="1543460081993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/All_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$web_orderinfo__1_.coverage" NAME="web_orderinfo (1) Coverage Results" MODIFIED="1551341096570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$web_person__1_.coverage" NAME="web_person (1) Coverage Results" MODIFIED="1547887198091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$public_method.coverage" NAME="public_method Coverage Results" MODIFIED="1554802733214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$bolebao_web.coverage" NAME="bolebao_web Coverage Results" MODIFIED="1547531596546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$web_orderinfo.coverage" NAME="web_orderinfo Coverage Results" MODIFIED="1554805597659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$web.coverage" NAME="web Coverage Results" MODIFIED="1546675522097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$del_data.coverage" NAME="del_data Coverage Results" MODIFIED="1555055383161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bolebaoproject/del_data" />
+    <SUITE FILE_PATH="coverage/u8$web__1_.coverage" NAME="web (1) Coverage Results" MODIFIED="1546845860963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+    <SUITE FILE_PATH="coverage/u8$app.coverage" NAME="app Coverage Results" MODIFIED="1551093126969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/web_u8" />
+    <SUITE FILE_PATH="coverage/u8$web_product.coverage" NAME="web_product Coverage Results" MODIFIED="1551418842182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$web_channel.coverage" NAME="web_channel Coverage Results" MODIFIED="1551418802621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$b.coverage" NAME="b Coverage Results" MODIFIED="1537263168857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新建文件夹/Logs" />
+    <SUITE FILE_PATH="coverage/u8$bolebao_web__1_.coverage" NAME="bolebao_web (1) Coverage Results" MODIFIED="1546598418682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$main.coverage" NAME="main Coverage Results" MODIFIED="1543412291924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u8_development/Factual_synchronization" />
+    <SUITE FILE_PATH="coverage/u8$web_invoice__1_.coverage" NAME="web_invoice (1) Coverage Results" MODIFIED="1551341941034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_project" />
+    <SUITE FILE_PATH="coverage/u8$web_sn.coverage" NAME="web_sn Coverage Results" MODIFIED="1555402411482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_development" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="impl_tool" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-118556759">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="102" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="7" />
+          <entry key="project.open.time.21" value="26" />
+          <entry key="project.open.time.22" value="11" />
+          <entry key="project.open.time.23" value="11" />
+          <entry key="project.open.time.24" value="5" />
+          <entry key="project.open.time.25" value="5" />
+          <entry key="project.open.time.26" value="7" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.28" value="6" />
+          <entry key="project.open.time.29" value="6" />
+          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="4" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="log" value="181" />
+          <entry key="md" value="1" />
+          <entry key="problem" value="3" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="463" />
+          <entry key="txt" value="17" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="201" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="462" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="html" value="1" />
+          <entry key="py" value="62485" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="62485" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-127717219">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="67" />
+          <entry key="project.open.time.0" value="20" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="9" />
+          <entry key="project.open.time.21" value="11" />
+          <entry key="project.open.time.22" value="12" />
+          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1" />
+          <entry key="ini" value="84" />
+          <entry key="py" value="29584" />
+          <entry key="txt" value="9" />
+          <entry key="yaml" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="84" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="29585" />
+          <entry key="YAML" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ini" value="27" />
+          <entry key="log" value="26" />
+          <entry key="problem" value="1" />
+          <entry key="py" value="367" />
+          <entry key="pyi" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="yaml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ini" value="27" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="367" />
+          <entry key="PythonStub" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="u8" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/ImplTool/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="e#16#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/ImplTool/context.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sales_order</find>
+      <find>put</find>
+      <find>get</find>
+      <find>ssl</find>
+      <find>request</find>
+      <find>version</find>
+      <find>.client</find>
+      <find>client</find>
+      <find>AC01000004</find>
+      <find>ccode</find>
+      <find>relatedProductID</find>
+      <find>ProductNumber</find>
+      <find>inventorycode</find>
+      <find>ChannelID</find>
+      <find>productida</find>
+      <find>insert_dict</find>
+      <find>child_dict</find>
+      <find>analysis_str</find>
+      <find>Cusname</find>
+      <find>Custcode</find>
+      <find>PurchaseChannel_GDXX</find>
+      <find>id</find>
+      <find>print</find>
+      <find>PurchaseChannelID</find>
+      <find>ConsultationType</find>
+      <find>start-plugin</find>
+      <find>plugin_internal_url</find>
+      <find>TransactionNumber</find>
+      <find>OrderInfoID</find>
+      <find>ProductID</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>loger()</replace>
+      <replace>primary_dict</replace>
+      <replace>service_dict</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/bluepro-sync/bluepro" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web_development/web.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/u8_development/All_synchronization/logger.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/u8_development/Factual_synchronization/aa.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/u8_development/Factual_synchronization/resolve.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bolebaoproject/message.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/web_development/bolebao_web.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bolebaoproject/bolebaots.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ceshi/tongbu.yaml" />
+        <option value="E:/web_u8/app.py" />
+        <option value="$PROJECT_DIR$/web_development/web_interface.py" />
+        <option value="$PROJECT_DIR$/web_development/web_product.py" />
+        <option value="$PROJECT_DIR$/web_development/web_receipt.py" />
+        <option value="$PROJECT_DIR$/ceshi/test_url.py" />
+        <option value="$PROJECT_DIR$/ceshi/sudoku.py" />
+        <option value="$PROJECT_DIR$/web_project/config/testing.ini" />
+        <option value="$PROJECT_DIR$/web_project/web_person.py" />
+        <option value="$PROJECT_DIR$/web_project/web_channel.py" />
+        <option value="$PROJECT_DIR$/web_project/web_orderinfo.py" />
+        <option value="$PROJECT_DIR$/web_project/web_invoice.py" />
+        <option value="$PROJECT_DIR$/web_project/web_product.py" />
+        <option value="$PROJECT_DIR$/web_project/web_receipt.py" />
+        <option value="$PROJECT_DIR$/web_project/web_sn.py" />
+        <option value="$PROJECT_DIR$/web_project/implement.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_receipt.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_invoice.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_product.py" />
+        <option value="$PROJECT_DIR$/web_project/test_sn.py" />
+        <option value="$PROJECT_DIR$/web_project/tst_sn.py" />
+        <option value="$PROJECT_DIR$/bolebaoproject/data.py" />
+        <option value="$PROJECT_DIR$/u8_development/web_development/web_sn.py" />
+        <option value="$PROJECT_DIR$/sales_order/analysis_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/consultation.py" />
+        <option value="$PROJECT_DIR$/import_data/analysis_data.py" />
+        <option value="$PROJECT_DIR$/sales_order/common_method.py" />
+        <option value="$PROJECT_DIR$/sales_order/insert_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/complaint_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/dismantling_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/synchronize_data.py" />
+        <option value="$PROJECT_DIR$/sales_order/consultative_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/returngoods_order.py" />
+        <option value="$PROJECT_DIR$/sales_order/repair_order.py" />
+        <option value="$USER_HOME$/Desktop/ImplTool/utils/http.py" />
+        <option value="$USER_HOME$/Desktop/plugin/bluepro/bluepro/bolebao/views.py" />
+        <option value="$PROJECT_DIR$/bolebaoproject/del_data/manage.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_orderinfo.py" />
+        <option value="$PROJECT_DIR$/web_project/config/config.ini" />
+        <option value="$PROJECT_DIR$/web_project/webs_channel.py" />
+        <option value="$PROJECT_DIR$/web_project/public_methods.py" />
+        <option value="$PROJECT_DIR$/bolebaoproject/del_data/del_data.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_sn.py" />
+        <option value="$PROJECT_DIR$/web_project/webs_person.py" />
+        <option value="$PROJECT_DIR$/web_development/web_invoice.py" />
+        <option value="$PROJECT_DIR$/web_development/web_sn_text.py" />
+        <option value="$PROJECT_DIR$/web_project/sn.py" />
+        <option value="$PROJECT_DIR$/web_development/public_method.py" />
+        <option value="$PROJECT_DIR$/web_development/web_orderinfo.py" />
+        <option value="$PROJECT_DIR$/web_development/web_sn.py" />
+        <option value="$USER_HOME$/Desktop/ImplTool/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$USER_HOME$/Desktop/ImplTool/utils/package/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1673" />
+    <option name="y" value="188" />
+    <option name="width" value="1551" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PySuperArgumentsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="u8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="u8" type="462c0819:PsiDirectoryNode" />
+              <item name="bolebaoproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="u8" type="462c0819:PsiDirectoryNode" />
+              <item name="bolebaoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="del_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="u8" type="462c0819:PsiDirectoryNode" />
+              <item name="web_development" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="u8" type="462c0819:PsiDirectoryNode" />
+              <item name="web_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImplTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="u8" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="u8" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="bolebao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="u8" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="bolebaoproject" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="u8" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="u8" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\u8" />
+      <recent name="E:\u8\u8_development" />
+      <recent name="E:\u8\web_project" />
+      <recent name="D:\u8\bolebaoproject" />
+      <recent name="D:\u8\web_development" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\u8\sales_order" />
+      <recent name="E:\u8\import_data" />
+      <recent name="E:\u8\web_project\bolebao" />
+      <recent name="D:\u8\web_project" />
+      <recent name="D:\u8\web_development" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.web_sn">
+    <configuration name="del_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="u8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bolebaoproject/del_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bolebaoproject/del_data/del_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="u8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_project/sn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_sn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="u8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_development" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_development/web_sn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webs_channel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="u8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_project/webs_channel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webs_orderinfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="u8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_project/webs_orderinfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.del_data" />
+      <item itemvalue="Python.webs_orderinfo" />
+      <item itemvalue="Python.webs_channel" />
+      <item itemvalue="Python.web_sn" />
+      <item itemvalue="Python.sn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.web_sn" />
+        <item itemvalue="Python.sn" />
+        <item itemvalue="Python.del_data" />
+        <item itemvalue="Python.webs_channel" />
+        <item itemvalue="Python.webs_orderinfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9740607e-033c-4e21-a2f8-80ead4099e00" name="Default Changelist" comment="" />
+      <created>1536845196350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536845196350</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_sys_py - 2019.02.21 at 11h 25m 00s.xml">
+      <configuration name="pytest in test_sys.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sys_py - 2019.02.21 at 11h 25m 25s.xml">
+      <configuration name="pytest in test_sys.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sn_py - 2019.03.04 at 10h 37m 31s.xml">
+      <configuration name="pytest in test_sn.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sn_py - 2019.03.04 at 10h 37m 55s.xml">
+      <configuration name="pytest in test_sn.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sn_py - 2019.03.04 at 10h 38m 02s.xml">
+      <configuration name="pytest in test_sn.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sn_py - 2019.03.04 at 10h 41m 41s.xml">
+      <configuration name="pytest in test_sn.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_sn_py - 2019.03.04 at 10h 42m 16s.xml">
+      <configuration name="pytest in test_sn.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-75" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49688667" visible="true" weight="0.1705757" />
+      <window_info id="Structure" order="1" sideWeight="0.5031133" side_tool="true" weight="0.15616623" />
+      <window_info id="Favorites" order="2" sideWeight="0.50143814" side_tool="true" weight="0.12793177" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.24352828" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20901246" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32719547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.36049855" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23777565" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32942432" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" weight="0.18070363" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/utils/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/api/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2349" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/api/cornjob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2493" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/config/ENVs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/api/plugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/plugin/bluepro/bluepro/bolebao/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="179" column="11" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import_data/analysis_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolebaoproject/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="134" selection-start-line="134" selection-end-line="165" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolebaoproject/bolebaots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/common_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/complaint_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/consultative_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/dismantling_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/insert_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/repair_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/returngoods_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales_order/synchronize_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolebaoproject/problem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolebaoproject/del_data/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/Logs/201904091753.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/Logs/201904091807.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2013" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_person.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_receipt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/Logs201904111836.log" />
+    <entry file="file://$PROJECT_DIR$/web_project/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/web_project/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/config/formal.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolebaoproject/del_data/del_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/webs_channel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2072">
+          <caret line="74" column="47" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/webs_person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/bolebao_web.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/tst_sn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/webs_sn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2389">
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="30" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/public_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="226" column="12" selection-start-line="226" selection-start-column="8" selection-end-line="226" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/sn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="118" column="94" selection-start-line="118" selection-start-column="85" selection-end-line="118" selection-end-column="94" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_sn_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2365">
+          <caret line="194" column="11" lean-forward="true" selection-start-line="194" selection-start-column="11" selection-end-line="194" selection-end-column="11" />
+          <folding>
+            <element signature="e#17#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11664" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_orderinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="215" column="17" selection-start-line="215" selection-start-column="17" selection-end-line="215" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/enum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/public_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_channel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="10" column="8" selection-start-line="10" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="e#129#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_development/web_sn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#17#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_project/webs_orderinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4324">
+          <caret line="193" column="57" selection-start-line="193" selection-start-column="57" selection-end-line="193" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/context.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1939097363/PyQt5/QtWidgets/QApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ImplTool/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

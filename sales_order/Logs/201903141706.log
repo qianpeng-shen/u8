@@ -1,0 +1,1 @@
+2019-03-14 17:06:42,503 - common_method.py[line:78] - INFO: 执行新增时报错，报错信息为：list indices must be integers or slices, not str

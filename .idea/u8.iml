@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bolebaoproject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/u8_development/Factual_synchronization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/u8_development" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/u8_development/All_synchronization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ceshi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bolebaoproject/del_data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web_project/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sales_order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web_development" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="web_u8" />
+    <orderEntry type="module" module-name="ImplTool" />
+    <orderEntry type="module" module-name="ImplTool" />
+    <orderEntry type="module" module-name="bluepro" />
+    <orderEntry type="module" module-name="bluepro" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/ceshi" />
+      </list>
+    </option>
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
